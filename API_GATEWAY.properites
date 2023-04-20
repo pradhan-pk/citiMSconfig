@@ -1,0 +1,6 @@
+# Requirements in properties - 
+# service Name
+# mapping uri - internally with MS
+# define the path for api-gateway - for external purpose
+
+# We created multiple copies of services (product-service) ==> Load balancing
